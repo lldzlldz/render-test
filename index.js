@@ -14,7 +14,7 @@ let notes = [
   },
   {
     id: '3',
-    content: 'GET and POST are the most important methods of HTTP protocol',
+    content: 'GET and POST are the most important methods of HTTP protocol backend',
     important: true,
   },
 ]
